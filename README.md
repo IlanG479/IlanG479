@@ -1,8 +1,8 @@
-# Hi, I'm Ilan
+# Hi, I'm Ilan!
 
 <img src="assets/boot.svg" width="840" alt="Terminal boot log: lilota, vibecraft, claude-os, ratio" />
 
-I mostly write systems code — embedded C on microcontrollers, Rust renderers — and build tools for things I actually use.
+I've done mostly IoT work with Arduinos, ESP32s, and other microcontrollers, along with some other random side projects.
 
 <!-- Add a line or two here in your own words: who you are, where you're at. -->
 
